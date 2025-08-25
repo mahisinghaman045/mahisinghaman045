@@ -8,7 +8,51 @@ All about me
 
 ### Happy to see you here! &nbsp; !
 
-Meet me,I am Aman Prakash, a motivated and detail-oriented fresher from Bihar. I have completed my 12th and am currently pursuing BCA through distance learning. I have strong computer skills with expertise in MS Excel, MS Word, and Data Entry. With a typing speed of 35–40 WPM and 95% accuracy, I am confident in handling data management, back office operations, and documentation tasks. I am eager to start my career as a Data Entry / Back Office Executive, while continuing to upgrade my knowledge through higher education. I believe in accuracy, time management, and delivering quality work. Immediate joiner.
+<h1 align="center">Hi 👋, I'm Aman prakash</h1>
+<h3 align="center">Process Associate | Data Analyst | Excel & BI Tools Enthusiast</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-informational?style=flat&logo=powerbi&logoColor=white&color=yellow" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-Reports-lightblue?style=flat" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+I am Aman Prakash, a dedicated and detail-oriented fresher from Bihar. I have completed my 12th and am currently pursuing BCA through distance learning. I possess strong computer skills with proficiency in MS Excel, MS Word, and data entry, along with a typing speed of 35–40 WPM at 95% accuracy. I am passionate about accuracy, time management, and maintaining data integrity. Eager to begin my career as a Data Entry / Back Office Executive, I am committed to learning and growing while contributing to organizational efficiency. I am available to join immediately.
+
+### 🛠 Tools & Technologies
+
+- **Power BI** for building rich, interactive dashboards  
+- **Power Query** for data transformation and ETL tasks  
+- **Advanced Excel** for reporting  
+- **Google Looker Studio** for web-based reporting  
+- **Office 365** for collaboration and productivity
+
+---
+
+### 🎓 Education & Certifications
+
+- Bachelor of Computer Applications (BCA) – Distance Learning 
+- Advanced Diploma in Computer Applications (ADCA)  
+- Higher Secondary Certificate (HSC) / 12th Class 
+- Currently learning **Data Analysis** and modern BI tools
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 LinkedIn : *https://www.linkedin.com/in/amanprakash45/*
+- 📧 Email: *alwaysmysteryaman@gmail.com*
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahisinghaman045&show_icons=true&theme=tokyonight" alt="Aman GitHub stats" />
+</p>
+
 
   
 
